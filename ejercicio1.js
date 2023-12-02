@@ -11,7 +11,7 @@ console.log("Has dicho que de ==> " + numerocomensales + " solo les gusta con ce
 
 console.log("Por se da por echo que sin cebolla les gusta a ==> " + (numerocomensales - cebolla))
 
-//el Math.ceil lo pongo para que si hay 4.5 botellas se redondee a 5 porque rese
+//el Math.ceil lo pongo para que si hay 4.5 botellas se redondee a 5 
 if (botellasnecesarias = Math.ceil(numerocomensales * botella)){ 
     console.log("Se necesitan ==> " + botellasnecesarias)
     
